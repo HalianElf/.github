@@ -3,7 +3,7 @@ name: Bug report
 about: When something isn't working as it should
 title: ''
 labels: bug
-assignees: Roxedus
+assignees: tronyx
 
 ---
 
